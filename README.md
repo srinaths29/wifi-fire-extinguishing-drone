@@ -7,6 +7,21 @@ A Wi-Fi-enabled firefighting drone developed to assist firefighters by remotely 
 
 ---
 
+# Publication
+
+This project has been published in the IEEE Xplore Digital Library.
+
+**Paper Title:**
+*WiFi Enabled Fire Extinguishing Drone* 
+
+**Conference:**
+2023 2nd International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA)
+
+🔗 IEEE Xplore:
+https://ieeexplore.ieee.org/document/10201153
+https://doi.org/10.1109/ICAECA56562.2023.10201153
+---
+
 # Project Overview
 
 Traditional firefighting methods expose firefighters to significant risks, especially in locations that are difficult to access. This project presents a low-cost firefighting drone capable of carrying and deploying a dry chemical fire extinguisher ball while transmitting live video and environmental information over Wi-Fi.
