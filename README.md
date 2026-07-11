@@ -209,6 +209,16 @@ The prototype successfully demonstrated:
 
 ---
 
+## Limitations
+
+During field testing, the quadcopter demonstrated stable flight under normal conditions.
+
+When carrying the fire extinguisher payload, the selected brushless motors were unable to generate sufficient thrust for sustained lift due to payload weight and budget constraints. This highlighted the importance of thrust-to-weight ratio in UAV design and provided valuable insights for future improvements.
+
+Future versions would use higher-thrust motors and optimized weight distribution to enable reliable payload transport.
+
+---
+
 # Future Improvements
 
 - Thermal camera integration
