@@ -229,6 +229,11 @@ Future versions would use higher-thrust motors and optimized weight distribution
 - Mobile application support
 - Longer flight endurance
 - Multiple fire extinguisher payloads
+- Future improvements include:
+- Higher-thrust motors
+- Optimized weight distribution
+- Improved PID tuning
+- Landing assistance using additional sensors (e.g., ultrasonic or optical flow)
 
 ---
 
