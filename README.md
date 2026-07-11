@@ -17,9 +17,9 @@ This project has been published in the IEEE Xplore Digital Library.
 **Conference:**
 2023 2nd International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA)
 
-🔗 IEEE Xplore:
-https://ieeexplore.ieee.org/document/10201153
-https://doi.org/10.1109/ICAECA56562.2023.10201153
+📄 **IEEE Xplore:** https://ieeexplore.ieee.org/document/10201153
+
+🔗 **DOI:** https://doi.org/10.1109/ICAECA56562.2023.10201153
 ---
 
 # Project Overview
