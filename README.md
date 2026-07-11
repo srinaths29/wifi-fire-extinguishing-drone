@@ -148,6 +148,15 @@ My primary contributions include:
 - Hardware integration
 - Prototype assembly
 - Testing and debugging
+- Designed and assembled the complete drone hardware.
+- Integrated the flight platform, ESP8266, ESP32-CAM, sensors, and fire suppression mechanism.
+- Developed the complete ESP8266 firmware for Wi-Fi communication and remote operation.
+- Designed and implemented the browser-based web interface.
+- Integrated the DHT22 and BMP280 sensors for environmental monitoring.
+- Implemented the servo-based fire extinguisher deployment mechanism.
+- Performed system integration, troubleshooting, and prototype testing.
+
+My teammates assisted during hardware assembly, testing, and project execution.
 
 > **Note**
 >
